@@ -21,7 +21,7 @@ duplines cli eliminates duplicate lines in a file and keeps the sorting order
 
 Simply run:
 
-    $ pip install .
+    $ pip install duplines
 
 
 # Usage
